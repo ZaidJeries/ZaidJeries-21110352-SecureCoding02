@@ -1,0 +1,7 @@
+|----------|---------------|-----------------|---------|-----|--------|
+|Username  |    Password   |    PhoneNumber  |  Gender | Age |UserType|
+|----------|---------------|-----------------|---------|-----|--------|
+
+zaid|+oNftdofu8OYhRa0BZ4YtK3rDi+s28NFesLPpe/v3QY=|15948726|male|20|Patient
+
+sdfsdfsd|lsrjXOipsCRBeL8o5JZsLOG4OFcjqWprg4hYzdbKCh4=|958476251|male|20|patient
