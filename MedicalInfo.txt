@@ -1,7 +1,4 @@
 |----------|---------------|-----------------|---------|------|
 |doctorName|   patientName | medicalSituation|medicalTreatment|
-|----------|---------------|-----------------|---------|------|
-
-zaid|Stone|Down Syndrom|die
-mohammed|zaid|dead|nothing
-Hamza|Yanal|Pneumonoutramicroscopicsilicovolcanoconiosis|Die
+|----------|---------------|-----------------|---------|------|zaki|zaid|ill|die
+zaki|zaid|ill|die

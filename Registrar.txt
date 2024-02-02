@@ -2,8 +2,5 @@
 |Username	       |	    password |
 |----------------------|---------------------|
 
-ZaidReg|YJwlmU3ZLrmCs21ugD0/HkDWfFpiaj6IS2GJTEHfPKQ=
----------------------------------------------
-
-
-							
+ZaidReg|WZRHGrsBESr8wYFZ9sx0tPURuZgG2lmzyvWpwXPKz8U=
+TestReg|WZRHGrsBESr8wYFZ9sx0tPURuZgG2lmzyvWpwXPKz8U=			

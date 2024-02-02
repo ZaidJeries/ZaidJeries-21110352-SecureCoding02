@@ -13,8 +13,7 @@ public class MyLogger {
     static{
         try {
             FileHandler fh;
-            fh= new FileHandler("logfile.log",true);
-            //fh= new FileHandler(System.getProperty("user.home")+System.getProperty("file.separator")+"logfile.log",true);
+            fh= new FileHandler("C:\\Users\\user\\Desktop\\SecureCoding\\SecureCoding\\src\\fianl\\logfile.log",true);
  
             
             LOGGER.addHandler(fh);
@@ -40,4 +39,3 @@ public class MyLogger {
         
     }
 }
-
